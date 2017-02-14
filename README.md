@@ -1,2 +1,2 @@
-# NameProject
-Description project....
+# Utility
+# CC BY-NC-SA
